@@ -10,7 +10,7 @@ Instantly find charging stations nearby
 Clone EV route planner
 
 ``` 
-  git clone https://github.com/rrRRohith/ev.git
+ https://github.com/Shefii-02/EV-project.git
 ```
 
 Install dependencies
